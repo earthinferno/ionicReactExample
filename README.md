@@ -1,1 +1,6 @@
 # ionicReactExample
+
+
+```
+npm run something
+```
